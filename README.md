@@ -2,8 +2,10 @@
 
 ## Project 1 : 
  
-> Credit Card Fraud Detection
+### Credit Card Fraud Detection 
+
 Basic Web app made using streamlit !! 
-'''
+
+```
 streamlit run main.py
-'''
+```
